@@ -390,7 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [docs/](docs/)
 - **Issues**: [GitHub Issues](https://github.com/mr-tweaker/Climate-Predict-AI/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/mr-tweaker/Climate-Predict-AI/discussions)
-- **Email**: your-email@example.com
+- **Email**: aniket.lamba@gmail.com
 
 ---
 
