@@ -1,0 +1,51 @@
+# Core Machine Learning (Python 3.13 compatible)
+numpy>=2.0.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.14.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Web Development
+streamlit>=1.25.0
+dash>=2.12.0
+flask>=2.2.0
+
+# Additional ML
+xgboost>=1.7.0
+lightgbm>=4.0.0
+
+# Advanced ML and Optimization
+optuna>=3.4.0
+hyperopt>=0.2.7
+shap>=0.43.0
+
+# Jupyter
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# Climate Science
+netcdf4>=1.6.0
+xarray>=2023.7.0
+metpy>=1.5.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+pyyaml>=6.0.0
+
+# AWS Deployment
+boto3>=1.34.0
+botocore>=1.34.0
+
+# AI and Chatbot
+google-generativeai>=0.3.0
+
+# Additional Dependencies for Improved System
+psutil>=5.9.0
+joblib>=1.3.0
