@@ -49,27 +49,43 @@ ClimatePredict AI is a comprehensive machine learning-powered weather prediction
 
 ### Main Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
-*Comprehensive weather dashboard with real-time data and predictions*
+*Comprehensive weather dashboard showing real-time weather data, current conditions, and key metrics for Indian cities. Features include temperature, humidity, wind speed, pressure readings, and a searchable city selector with 100+ Indian cities coverage.*
 
 ### Weather Forecast
 ![Forecast](docs/screenshots/forecast.png)
-*Detailed 14-day weather forecast with interactive charts*
+*Detailed 14-day weather forecast with interactive charts and predictions. Shows temperature trends, precipitation probability, wind patterns, and humidity forecasts. Includes ensemble ML model predictions with confidence intervals and weather condition icons.*
 
 ### Disaster Risk Assessment
 ![Risk Assessment](docs/screenshots/risk-assessment.png)
-*Advanced disaster risk analysis for multiple weather events*
+*Advanced disaster risk analysis system evaluating multiple weather hazards including heatwaves, droughts, storms, and floods. Features risk probability charts, severity indicators, early warning systems, and mitigation recommendations for each city.*
 
 ### AI Chatbot
 ![Chatbot](docs/screenshots/chatbot.png)
-*Interactive AI assistant powered by Google Gemini*
+*Interactive AI assistant powered by Google Gemini AI, providing real-time weather guidance, climate explanations, and app navigation help. Features natural language processing, context-aware responses, and multilingual support.*
 
 ### City Comparison
 ![City Comparison](docs/screenshots/city-comparison.png)
-*Side-by-side weather comparison for multiple cities*
+*Side-by-side weather comparison tool allowing users to compare multiple Indian cities simultaneously. Shows temperature differences, climate patterns, weather conditions, and statistical comparisons across different geographical regions.*
 
 ### Climate Trends
 ![Climate Trends](docs/screenshots/climate-trends.png)
-*Historical climate data analysis and trend visualization*
+*Historical climate data analysis and trend visualization with long-term weather patterns, seasonal variations, temperature anomalies, and climate change indicators. Includes statistical analysis, trend lines, and predictive modeling for climate research.*
+
+## 🎨 User Interface & Experience
+
+### Modern Design Features
+- **Responsive Layout**: Optimized for desktop, tablet, and mobile devices
+- **Interactive Charts**: Plotly-powered visualizations with zoom, pan, and hover details
+- **Real-time Updates**: Live weather data integration with automatic refresh
+- **Intuitive Navigation**: Clean sidebar with easy access to all features
+- **Professional Styling**: Gradient backgrounds, smooth animations, and modern UI elements
+
+### Key Interface Elements
+- **City Search**: Smart search with autocomplete for 100+ Indian cities
+- **Weather Cards**: Compact display of current conditions with icons
+- **Forecast Charts**: Interactive time-series plots with multiple weather parameters
+- **Risk Indicators**: Color-coded risk levels with detailed explanations
+- **AI Chat Interface**: Floating chatbot with natural conversation flow
 
 ## 🏗️ Architecture
 
@@ -105,8 +121,8 @@ ClimatePredict AI is a comprehensive machine learning-powered weather prediction
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ClimatePredict-AI.git
-cd ClimatePredict-AI
+git clone https://github.com/mr-tweaker/Climate-Predict-AI.git
+cd Climate-Predict-AI
 ```
 
 ### 2. Quick Local Setup
@@ -195,8 +211,8 @@ export OPENWEATHER_API_KEY="your-openweather-api-key"
 
 1. **Clone and Setup**
 ```bash
-git clone <your-repo-url>
-cd ClimatePredict-AI
+git clone https://github.com/mr-tweaker/Climate-Predict-AI.git
+cd Climate-Predict-AI
 ```
 
 2. **Configure AWS**
@@ -372,8 +388,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ClimatePredict-AI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ClimatePredict-AI/discussions)
+- **Issues**: [GitHub Issues](https://github.com/mr-tweaker/Climate-Predict-AI/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mr-tweaker/Climate-Predict-AI/discussions)
 - **Email**: your-email@example.com
 
 ---
